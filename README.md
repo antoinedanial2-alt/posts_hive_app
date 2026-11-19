@@ -1,6 +1,6 @@
 # Offline Posts App (Hive)
 
-Section 5 task using Flutter and Hive to cache posts locally and save favorite posts.
+ using Flutter and Hive to cache posts locally and save favorite posts.
 
 ## What it does
 - Fetches posts from `jsonplaceholder.typicode.com/posts` and caches them with Hive (`postsBox`).
