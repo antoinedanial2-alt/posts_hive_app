@@ -54,11 +54,11 @@ flutter run
 > Add your screenshots inside a `screenshots/` folder in your repository before pushing.
 
 ### 1. Posts Screen (Online & Favorited Stars)
-![Posts Screen](screenshots01_posts_screen.png)]
+![Posts Screen](screenshots/01_posts_screen.png)
 
 
 ### 2. Favorites Screen (Populated)
-![Favorites Screen](screenshots02_favorites_screen.png)
+![Favorites Screen](screenshots/02_favorites_screen.png)
 
 ### 3. Favorites Screen (Empty State - "No favorites yet")
 ![Favorites Empty](screenshots/03_favorites_empty.png)
